@@ -1,4 +1,5 @@
-<img width="1280" height="419" alt="photo_2026-06-28_15-24-08" src="https://github.com/user-attachments/assets/f20be586-f933-4623-98a8-030d1eb758e4" />
+![Uploading bb8add4d-456e-4d76-b55f-7ca77ca0a593.png…]()
+
 
 
 <h1 align="center">Привет 👋 Я SXTR_333</h1>
