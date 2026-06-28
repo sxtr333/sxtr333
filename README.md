@@ -37,15 +37,34 @@
 Работаю со стеком:
 Python · FastAPI · JavaScript · C++ · LLM · AI Automation · Telegram Bots · Parsing · API Integrations
 
-Мои умения
-🤖 AI-боты и ассистенты для бизнеса
-🎙️ Голосовые AI-ассистенты для звонков с естественным звучанием
-📊 Парсинг и анализ данных с сайтов
-🏠 Модели и аналитика на основе данных Avito / ЦИАН
-⚙️ CRM-системы и интеграции под ваши задачи
-📈 Trading-модели и аналитические сервисы
-🌐 Backend-сервисы на FastAPI
-🔗 Интеграции с API, Telegram, таблицами и внешними сервисами
+## Мои умения
+
+* 🤖 AI-боты и ассистенты для бизнеса
+* 🎙️ Голосовые AI-ассистенты для звонков с естественным звучанием
+* 📊 Парсинг и анализ данных с сайтов
+* 🏠 Модели и аналитика на основе данных Avito / ЦИАН
+* ⚙️ CRM-системы и интеграции под ваши задачи
+* 📈 Trading-модели и аналитические сервисы
+* 🌐 Backend-сервисы на FastAPI
+* 🔗 Интеграции с API, Telegram, таблицами и внешними сервисами
 
 
+
+## 🎓 Обучение и сертификаты
+
+Прошёл полный курс **AI/ML-разработчика** в Neural University.
+
+Изучал нейронные сети, Python, ML/NLP, production-интеграции, AutoML, Telegram-ботов, AI-web-приложения, работу с серверами и прикладные AI-инструменты для бизнеса.
+
+<p align="center">
+  <a href="certificates/neural-university-ai-ml.pdf">
+    <img width="650" alt="Neural University AI/ML Certificate" src="certificates/neural-university-ai-ml.png" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="certificates/neural-university-ai-ml.pdf">
+    <img src="https://img.shields.io/badge/Certificate-Neural%20University-111111?style=for-the-badge" />
+  </a>
+</p>
 
