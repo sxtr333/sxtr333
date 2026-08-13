@@ -110,19 +110,23 @@
 
 ## 🎓 Обучение и сертификаты
 
-Прошёл полный курс **AI/ML-разработчика** в Neural University.
+**[Neural University](https://neural-university.ru/)** — курс **«AI/ML-разработчик»**  
+**Кунин Савва Владиславович** · **25.08.2025 — 03.08.2026**
 
-Изучал нейронные сети, Python, ML/NLP, production-интеграции, AutoML, Telegram-ботов, AI-web-приложения, работу с серверами и прикладные AI-инструменты для бизнеса.
+Полная программа: Python, NumPy, Keras, TensorFlow, PyTorch, AutoML, компьютерное зрение, NLP, LLM / prompt engineering, LangChain, GigaChat, классическое ML, Linux, FastAPI, Docker, SQL, Spark, AirFlow, MLOps, Kafka, Kubernetes.
 
 <p align="center">
   <a href="certificates/neural-university-ai-ml.pdf">
-    <img width="650" alt="Neural University AI/ML Certificate" src="certificates/neural-university-ai-ml.png" />
+    <img width="650" alt="Сертификат Neural University — AI/ML-разработчик" src="certificates/neural-university-ai-ml.png" />
   </a>
 </p>
 
 <p align="center">
   <a href="certificates/neural-university-ai-ml.pdf">
-    <img src="https://img.shields.io/badge/Certificate-Neural%20University-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Сертификат-AI%2FML--разработчик-111111?style=for-the-badge" />
+  </a>
+  <a href="https://neural-university.ru/">
+    <img src="https://img.shields.io/badge/Neural_University-Терра_ЭйАй-111111?style=for-the-badge" />
   </a>
 </p>
 
