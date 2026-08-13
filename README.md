@@ -132,6 +132,16 @@
 
 ---
 
+## 📄 Резюме
+
+<p align="center">
+  <a href="resume/resume.docx">
+    <img src="https://img.shields.io/badge/Скачать_резюме-DOCX-111111?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📫 Контакты
 
 <p align="center">
