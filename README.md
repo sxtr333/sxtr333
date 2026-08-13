@@ -111,7 +111,7 @@
 ## 🎓 Обучение и сертификаты
 
 **[Neural University](https://neural-university.ru/)** — курс **«AI/ML-разработчик»**  
-**Кунин Савва Владиславович** · **25.08.2025 — 03.08.2026**
+**Кунин Савва Владиславович** · **25.08.2024 — 03.08.2026**
 
 Полная программа: Python, NumPy, Keras, TensorFlow, PyTorch, AutoML, компьютерное зрение, NLP, LLM / prompt engineering, LangChain, GigaChat, классическое ML, Linux, FastAPI, Docker, SQL, Spark, AirFlow, MLOps, Kafka, Kubernetes.
 
