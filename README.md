@@ -1,6 +1,6 @@
 <img width="2170" height="725" alt="Profile banner" src="https://github.com/user-attachments/assets/2ca7b8ac-3ea3-4576-aa32-b6a4278a29c9" />
 
-<h1 align="center">Привет 👋 Я SXTR_333</h1>
+<h1 align="center">Я SXTR_333</h1>
 
 <h3 align="center">AI/Python-разработчик | Автоматизация | Парсинг | Telegram-боты | FastAPI</h3>
 
